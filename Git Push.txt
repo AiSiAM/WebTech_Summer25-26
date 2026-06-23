@@ -1,3 +1,8 @@
 git add (test1.html)----File Name
 git commit -m "Added test1.html"
 git push origin main
+
+Add Folder
+git add myfolder/
+git commit -m "Added myfolder"
+git push origin main
