@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.Container{
+    width: 700px;
+    margin:50px auto;
+}
+table{
+    width:100% ;
+}
+
+fieldset{
+    border: 2px solid ;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+legend{
+    background:blue;
+    color:white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+input{
+    width: 80%;
+    padding: 10px;
+    margin-top: 5px;
+    border:1px solid ;
+    border-radius: 4px;
+}
+#submit{
+    width: 150px;
+    background-color: blue;
+    color:white;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+}
+#reset{
+     width: 150px;
+    background-color: blue;
+    color:white;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+}
